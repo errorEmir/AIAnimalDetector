@@ -74,7 +74,3 @@ The model achieved the following performance on the validation set (20% of the A
 ## 🖼️ Screenshots
 [Interface](./screenshot.png) 
 [Result](./result.png) 
-
----
-
-*This README file was generated based on the project requirements and code structure.*
