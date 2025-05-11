@@ -3,7 +3,7 @@
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ererorEmir/AIAnimalDetector.git
     cd your-repo-name
     ```
 
@@ -72,8 +72,8 @@ The model achieved the following performance on the validation set (20% of the A
 *(These metrics might correspond to the epoch with the best validation accuracy or the last epoch. Check the `train.py` output for details.)*
 
 ## 🖼️ Screenshots
-[Interface](./screenshot.png) 
-[Results](./result.png) 
+(./screenshot.png) 
+(./result.png) 
 
 ---
 
