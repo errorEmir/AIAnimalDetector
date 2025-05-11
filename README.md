@@ -72,8 +72,8 @@ The model achieved the following performance on the validation set (20% of the A
 *(These metrics might correspond to the epoch with the best validation accuracy or the last epoch. Check the `train.py` output for details.)*
 
 ## 🖼️ Screenshots
-(./screenshot.png) 
-(./result.png) 
+[Interface](./screenshot.png) 
+[Result](./result.png) 
 
 ---
 
